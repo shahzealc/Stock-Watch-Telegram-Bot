@@ -4,7 +4,7 @@ import requests
 import re
 import telebot
 
-API_Key = "5564748078:AAEOfKR9-AAWN5XI3Wn1U7VSO-ZjfyRUT6w"
+API_Key = "apikeywhichicantputhere"
 
 bot = telebot.TeleBot(API_Key)
 
